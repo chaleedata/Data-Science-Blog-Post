@@ -2,7 +2,7 @@
 Licensing, Authors, and Acknowledgements
 
 - [Installation](#installation)
-- [Project motivation](#Project\,motivation)
+- [Project Motivation](#Project\,motivation)
 
 # Installation:
 Python versions 3.*.

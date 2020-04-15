@@ -26,4 +26,4 @@ To complete this project, you will use Jupyter Notebooks through a workspace in 
 Introduction to Data Science in the [Become a Data Scientist](https://www.udacity.com/course/data-scientist-nanodegree--nd025) Core Concept of this course.
 
 # Results:
-The main findings of the code can be found
+The main findings of the code can be found [here](https://medium.com/@chalee.chea/what-is-the-interesting-outcomes-from-stack-overflow-developer-survey-2892d3487569)

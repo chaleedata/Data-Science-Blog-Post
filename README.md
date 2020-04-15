@@ -2,7 +2,7 @@
 Licensing, Authors, and Acknowledgements
 
 - [Installation](#installation)
-- [Project Motivation](#Motivation)
+- [Project Motivation](#project motivation)
 
 
 

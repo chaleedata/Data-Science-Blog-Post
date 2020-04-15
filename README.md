@@ -2,10 +2,7 @@
 Licensing, Authors, and Acknowledgements
 
 - [Installation](#installation)
-- [Project Motivation](#Project\motivation)
-- [File Descriptions](#File Descriptions)
-
-
+- [Project motivation](#Project)
 
 # Installation:
 Python versions 3.*.
@@ -17,3 +14,6 @@ Python versions 3.*.
 
 # Project Motivation:
 This project used [Stack Overflow Developer Survey](https://www.kaggle.com/stackoverflow/so-survey-2017/kernels?sortBy=voteCount&group=everyone&pageSize=20&datasetId=1406) 
+
+
+# File Descriptions:

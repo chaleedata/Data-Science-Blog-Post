@@ -11,7 +11,7 @@ Python versions 3.*.
 - Libraries:
 - Pandas.
 - numpy.
-- matplotlib.
+- matplotlib. 
 - seaborn.
 
 # Project Motivation:

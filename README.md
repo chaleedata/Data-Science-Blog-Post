@@ -23,7 +23,8 @@ This project used [Stack Overflow Developer Survey](https://www.kaggle.com/stack
 
 # Reference
 - [The Art of Data Science](https://www.amazon.com/Art-Data-Science-Roger-Peng/dp/1365061469)
-
+- [Practical Statistics for Data Scientists](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential-ebook/dp/B071NVDFD6/ref=pd_sbsd_14_3/136-0579605-1764431?_encoding=UTF8&pd_rd_i=B071NVDFD6&pd_rd_r=dd1c3e1d-6364-483c-88f6-93ef8b139772&pd_rd_w=tJGEh&pd_rd_wg=JDBZJ&pf_rd_p=2c2d0d3b-b3c5-4110-93fa-2c1270309ac1&pf_rd_r=V0JS7YM3AHCRV1DY69EW&psc=1&refRID=V0JS7YM3AHCRV1DY69EW)
+- [Storytelling with Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
 
 # File Descriptions:
 To complete this project, you will use Jupyter Notebooks through a workspace in the classroom. Jupyter Notebooks are a great way to work with your code interactively while also being able to include descriptive and informative text to build a report.If you would like to learn more about  these tools, or you need some additional help to get started, you can check out  the course 

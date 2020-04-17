@@ -21,6 +21,10 @@ This project used [Stack Overflow Developer Survey](https://www.kaggle.com/stack
 - Python vs R language
 - How many different average salary if you write r and python
 
+# Reference
+- [The Art of Data Science](https://www.amazon.com/Art-Data-Science-Roger-Peng/dp/1365061469)
+
+
 # File Descriptions:
 To complete this project, you will use Jupyter Notebooks through a workspace in the classroom. Jupyter Notebooks are a great way to work with your code interactively while also being able to include descriptive and informative text to build a report.If you would like to learn more about  these tools, or you need some additional help to get started, you can check out  the course 
 Introduction to Data Science in the [Become a Data Scientist](https://www.udacity.com/course/data-scientist-nanodegree--nd025) Core Concept of this course.
